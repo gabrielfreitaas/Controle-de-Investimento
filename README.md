@@ -1,6 +1,6 @@
 # Controle de Investimentos
 
-![ControleInvestimentos](https://img.shields.io/badge/-java-purple)
+![ControleInvestimentos](https://img.shields.io/badge/-java-purple) ![ControleInvestimentos](https://img.shields.io/badge/-investimentos-success)
 
 ## Qual problema o App resolve ? 
 
