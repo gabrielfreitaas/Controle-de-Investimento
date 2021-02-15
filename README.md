@@ -17,10 +17,10 @@
 
 ## Interface
 
-<img src="https://github.com/GabrielFreitas-00/Controle-de-Ativos2/blob/main/Print_Controle_Investimentos.png" width="200" height="400" />
+<img src="https://github.com/GabrielFreitas-00/Controle-de-Ativos2/blob/main/Print_Controle_Investimentos.png" width="200" height="450" />
 
 ## Funcionamento
 
-<img src="https://github.com/GabrielFreitas-00/Controle-de-Investimento/blob/main/Print-Fun%C3%A7%C3%B5es.png" width="200" height="400" />
+<img src="https://github.com/GabrielFreitas-00/Controle-de-Investimento/blob/main/Print-Fun%C3%A7%C3%B5es.png" width="200" height="450" />
 
 
