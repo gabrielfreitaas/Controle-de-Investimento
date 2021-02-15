@@ -21,3 +21,4 @@
 
 ## Funcionamento
 
+<img src="https://github.com/GabrielFreitas-00/Controle-de-Investimento/blob/main/Video_Controle_Investimentos.mp4" width="200" height="400" />
