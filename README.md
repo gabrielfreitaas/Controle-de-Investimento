@@ -10,3 +10,8 @@
 * **Quantidade de ações**
 * **Preço da Ação**
 * **Taxas de corretagem e valores de impostos sobre a transação**
+* **Porcentagem de retorno**
+
+#### Assim consegue descobrir em qual momento e principalmente o preço que deve vender, acompanhando sua alta ou baixa do papel
+
+
