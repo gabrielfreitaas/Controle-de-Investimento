@@ -1,6 +1,6 @@
 # Controle de Investimentos
 
-![ControleInvestimentos](https://img.shields.io/badge/-java-purple) ![ControleInvestimentos](https://img.shields.io/badge/-investimentos-success)
+![ControleInvestimentos](https://img.shields.io/badge/-java-purple) ![ControleInvestimentos](https://img.shields.io/badge/Version-1.0-blueviolet) ![ControleInvestimentos](https://img.shields.io/badge/-investimentos-success)
 
 ## Qual problema o App resolve ? 
 
@@ -22,3 +22,5 @@
 ## Funcionamento
 
 <img src="https://github.com/GabrielFreitas-00/Controle-de-Investimento/blob/main/Print-Fun%C3%A7%C3%B5es.png" width="200" height="400" />
+
+
