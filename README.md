@@ -18,4 +18,4 @@
 ## Interface
 <<<<<<< HEAD
 
-![Investimento](C:\Users\gabri\Pictures\Controle_de_Investimentos\Print_Controle_Investimentos.png)
+![Investimento](Pictures\Controle_de_Investimentos\Print_Controle_Investimentos.png)
