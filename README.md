@@ -18,3 +18,6 @@
 ## Interface
 
 <img src="https://github.com/GabrielFreitas-00/Controle-de-Ativos2/blob/main/Print_Controle_Investimentos.png" width="200" height="400" />
+
+## Funcionamento
+
