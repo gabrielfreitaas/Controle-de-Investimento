@@ -16,6 +16,5 @@
 
 
 ## Interface
-<<<<<<< HEAD
 
-![Investimento](Pictures\Controle_de_Investimentos\Print_Controle_Investimentos.png)
+![Investimento](https://github.com/GabrielFreitas-00/Controle-de-Ativos2/blob/main/Print_Controle_Investimentos.png)
