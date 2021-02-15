@@ -15,3 +15,5 @@
 #### Assim consegue descobrir em qual momento e principalmente o preço que deve vender, acompanhando sua alta ou baixa do papel
 
 
+## Interface
+
