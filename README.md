@@ -16,5 +16,8 @@
 
 
 ## Interface
+<<<<<<< HEAD
 
 [Investimento](C:\Users\gabri\Pictures\Controle_de_Investimentos\Print_Controle_Investimentos.png)
+=======
+>>>>>>> 7005b55e542efa288eb19808d8e06cacd8ec8ed5
